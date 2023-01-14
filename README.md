@@ -9,6 +9,7 @@
 Sale Price Color Coding
 - Increments of $200K
 - Clicking on color(s) in key highlights homes on the map
+<br />
 Tip: Click on multiple colors in the key to see the houses on the map.
 
 Square Foot Radius - 2 Types
