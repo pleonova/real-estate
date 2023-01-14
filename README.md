@@ -9,9 +9,9 @@
 **Color: Sale Price**<br/>
 Click on multiple colors in the key to highlight the houses in the map.
 - Colors are coded in increments of $200K
-- The values shown in the key are the minimum value (so if it shows $1M then it means that the houses highlighted will be from $1M till $1.2M)
+- The values shown in the key is the minimum value (so if it shows $1M then it means that the houses highlighted will be from $1M to $1.2M)
 - Select multiple colors by holding down your mouse (or the Shift button)
-- Use a lasso to select houses in a particular region and update the bar chart below
+- Use lasso to select houses in a particular region and update the bar chart below
 
 **Bubble Size: Square Foot Radius - 2 Types**<br/>
 Explore how big the house is relative to the lot size.
