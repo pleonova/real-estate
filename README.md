@@ -44,4 +44,15 @@ If you have an account on Redfin, you can favorite houses and visualize them.
 
 ## Upload your own data
 
-Redfin makes this pretty straightforward and all you need to do is download a csv. You can go to their support article [here](https://support.redfin.com/hc/en-us/articles/360016476931-Downloading-Data-), but it is honestly just a few clicks. Just note that they have a limit on how far in data you can go and how much you can download in one go.
+Redfin makes this pretty straightforward and all you need to do is download a csv. You can go to their support article [here](https://support.redfin.com/hc/en-us/articles/360016476931-Downloading-Data-), but it is honestly just a few clicks. Just note that they have a limit on how far in data you can go and how much you can download in one go.<br/>
+
+[Screenshots of steps below](https://github.com/pleonova/real-estate/blob/master/UploadYourData)
+
+1) Download CSV from Redfin.
+2) Download Tableau Workbook or make a copy if you have a free Tableau Public account. You can also install a free 14-day trial (or just use a Tableau Public installation that you can only save by posting data to Tableau Public).
+3) Go to **Data Source** tab at the bottom left and drag your files into the *Need more Data?* region.
+4) Remove the old data source *redfin_2021_* under **Connections** on the top left.
+5) Drag and drop your file(s). If more than one, hover the next one over the old one so you can do a UNION between the files.
+6) Go to **#1 House Sales & Sqft/Lot Size** and update the *Sold Date* filter! Do not forget to do this, otherwise you will not see any of your data.
+7) Lastly, hover over the disbtribution chart at the bottom and sort the prices.
+8) Explore your own data!
