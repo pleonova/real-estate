@@ -1,7 +1,5 @@
 # Silicon Valley Real Estate
-A real estate heat map of Silicon Valley (2021)
-
-[Interactive Tableau Heatmap](https://public.tableau.com/app/profile/paula/viz/RealEstateAnalysisHeatMap-SiliconValley/1HouseSalesSqftLotSize)
+[A real estate heat map of Silicon Valley (2021)](https://public.tableau.com/app/profile/paula/viz/RealEstateAnalysisHeatMap-SiliconValley/1HouseSalesSqftLotSize)
 
 [<img alt="Interactive Tableau Heat Map Visualization" width="400px" src="https://github.com/pleonova/real-estate/blob/main/Screenshots/sold_houses_sqft_lot_size2.png" />](https://public.tableau.com/app/profile/paula/viz/RealEstateAnalysisHeatMap-SiliconValley/1HouseSalesSqftLotSize)
 
