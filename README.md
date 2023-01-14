@@ -14,8 +14,7 @@ Click on multiple colors in the key to highlight the houses in the map.
 - Use a lasso to select houses in a particular region and update the bar chart below
 
 **Bar Chart: Monthly Aggregate Sales (with Median and Average)**<br/>
-Use the filters to select homes you are interested to see the Median prices. 
-- All the houses are ordered from highest to lowest each month includes a Median cost as well as Average.
+- All the houses are ordered from highest to lowest each month including a Median cost as well as Average.
 - Clicking on any one home will in the bar chart will highlight it on the map (click on a white space in the bar graph to remove the temporary filter and see all the homes again)
 
 **Bubble Size: Square Foot Radius - 2 Types**<br/>
@@ -31,13 +30,13 @@ On hover, see details about the home including bedrooms, square footage and addr
 - Filter homes based on how many bedrooms and/or bathrooms they have
 
 **Filters: Sale Price and Date**<br/>
-Narrow down the date range and the price of homes 
+Narrow down the date range and the price of homes
 - Filter the the date range for underlying data to view different time periods
 - *Tip: The markets change frequently, so looking at how the last three months performed is probably most helpful as well as a general yearly trend (summer tends to be higher priced homes, while winter has fewer homes for sale).*
 
 **Filter: Favorites**<br/>
-If you have an account on Redfin, you can favorite houses and visualize it.
-- Downlaod file from Redfin includes a field for your favorites which can be displayed exclusively on the map
+If you have an account on Redfin, you can favorite houses and visualize them.
+- Download file from Redfin includes a field for your favorites which can be displayed exclusively on the map
 - Ability to highlight your favorites while keeping the other homes on the map
 
 
